@@ -93,7 +93,7 @@ Power BI Desktop · Power Query · DAX
 
 ## Author
 
-**Riya**
+**Riya Patra**
 B.Tech Computer Science, MAKAUT
 [LinkedIn](https://www.linkedin.com/in/riya-patra-95310b332) · [GitHub](https://github.com/riya-patra)
 
